@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<title>HOME PAGE</title>
+
+</head>
+<body>
+<h1> WELCOME EVERYONE</h1>
+<marquee><h1>DELICIOUS</h1></marquee>
+<style>
+body{
+background-color:DarkPink;
+}
+</style>
+</body>
+</html>

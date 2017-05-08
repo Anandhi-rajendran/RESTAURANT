@@ -1,0 +1,69 @@
+body{
+    background-image: url("img1.jpg");
+    
+background-repeat: no-repeat;
+   
+ background-position:center;
+   
+ background-attachment: fixed;
+
+}
+
+
+
+
+a{
+
+    background-color:DeepPink ;
+  cursor: pointer;
+    padding: 20px 20px;
+    font-size: 17px;
+   width:25%;
+ text-decoration: none;
+ 
+}
+
+   
+h1{
+   color:DeepPink;
+}
+
+ a:hover {
+    background-color:GhostWhite;
+}
+ a.active {
+    background-color: DarkSalmon;
+}
+div.al {
+     line-align:center;
+    line-height: 500px; // height taken from OPs plunker
+}
+.h a{
+
+    background-color:DeepPink ;
+  cursor: pointer;
+    padding: 20px 20px;
+    font-size: 17px;
+   width:25%;
+ text-decoration: none;
+ 
+}
+.h
+{
+background-image:url("f11.jpeg");
+ 
+}
+img.align-left {
+ float: left;
+ margin-right: 30px;
+}
+
+   
+h2{
+   color:GhostWhite;
+}
+   
+h3{
+   color:GhostWhite;
+}
+
